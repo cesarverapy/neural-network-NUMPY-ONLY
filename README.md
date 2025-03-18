@@ -1,4 +1,4 @@
-# Neural Network from Scratch Using NumPy
+# Neural Network using NumPy only
 
 This project implements a simple neural network using only NumPy, without external deep learning libraries. The training loop and evaluation functions are included, but the network is not structured as an explicit class.
 
@@ -45,5 +45,3 @@ This project implements a simple neural network using only NumPy, without extern
 - Convert the model into an object-oriented class (`NeuralNetwork`).
 - Implement activation functions and layer flexibility.
 - Optimize performance with vectorized NumPy operations.
-
-Happy coding! 🚀
